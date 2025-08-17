@@ -1,0 +1,500 @@
+{
+  "hospitals": [
+    {
+      "name": "Klinik Landstraße (früher: Krankenanstalt Rudolfstiftung), Krankenhaus der Stadt Wien, Wiener Gesundheitsverbund (WiGeV)",
+      "lat": 48.19635479,
+      "lng": 16.3908368
+    },
+    {
+      "name": "Universitätsklinikum AKH Wien, Wiener Gesundheitsverbund (WiGeV)",
+      "lat": 48.22019056,
+      "lng": 16.34433934
+    },
+    {
+      "name": "Klinik Hietzing (früher: Krankenhaus Hietzing mit Neurologischem Zentrum Rosenhügel), Krankenhaus der Stadt Wien, Wiener Gesundheitsverbund (WiGeV)",
+      "lat": 48.16066996,
+      "lng": 16.2823891
+    },
+    {
+      "name": "Klinik Hietzing (früher: Krankenhaus Hietzing mit Neurologischem Zentrum Rosenhügel), Krankenhaus der Stadt Wien, Wiener Gesundheitsverbund (WiGeV)",
+      "lat": 48.17019994,
+      "lng": 16.27649045
+    },
+    {
+      "name": "Standort Penzing der Klinik Ottakring (früher: Sozialmedizinisches Zentrum - Baumgartner Höhe / Otto Wagner Spital), Wiener Gesundheitsverbund (WiGeV)",
+      "lat": 48.20742407,
+      "lng": 16.27857302
+    },
+    {
+      "name": "Klinik Ottakring (früher: Wilhelminenspital), Krankenhaus der Stadt Wien, Wiener Gesundheitsverbund (WiGeV)",
+      "lat": 48.21077952,
+      "lng": 16.30418779
+    },
+    {
+      "name": "Klinik Donaustadt (früher: Donauspital), Wiener Gesundheitsverbund (WiGeV)",
+      "lat": 48.21901334,   
+      "lng": 16.46421651
+    },
+    {
+      "name": "Hera, Sanatorium der Krankenfürsorgeanstalt der Bediensteten der Stadt Wien",
+      "lat": 48.22644007,
+      "lng": 16.35167561
+    },
+    {
+      "name": "Traumazentrum Wien - Standort Meidling, AUVA ehemaliges Unfallkrankenhaus Meidling",
+      "lat": 48.17295809,
+      "lng": 16.34403601
+    },
+    {
+      "name": "Rehabilitationszentrum Meidling, AUVA",
+      "lat": 48.17233747,
+      "lng": 16.34519219
+    },
+    {
+      "name": "Krankenhaus der Barmherzigen Brüder Linz", 
+      "lat": 48.3069, 
+      "lng": 14.2906
+    },
+    {
+      "name": "Landeskrankenhaus Graz", 
+      "lat": 47.0702, 
+      "lng": 15.4395
+    },
+    {
+      "name": "Universitätsklinikum Innsbruck", 
+      "lat": 47.2672, 
+      "lng": 11.3924
+    },
+    {
+      "name": "Landeskrankenhaus Salzburg", 
+      "lat": 47.8095, 
+      "lng": 13.0431
+    },
+    {
+      "name": "Krankenhaus der Elisabethinen Linz", 
+      "lat": 48.3019, 
+      "lng": 14.2894
+    },
+    {
+      "name": "Landeskrankenhaus Feldkirch", 
+      "lat": 47.2383, 
+      "lng": 9.5983
+    },
+    {
+      "name": "Krankenhaus Dornbirn", 
+      "lat": 47.4125, 
+      "lng": 9.7478
+    },
+    {
+      "name": "Landeskrankenhaus Bludenz", 
+      "lat": 47.1417, 
+      "lng": 9.8042
+    },
+    {
+      "name": "Krankenhaus der Barmherzigen Brüder Graz", 
+      "lat": 47.0703, 
+      "lng": 15.4398
+    },
+    {
+      "name": "Landeskrankenhaus Vöcklabruck", 
+      "lat": 48.0217, 
+      "lng": 13.6533
+    },
+    {
+      "name": "Landeskrankenhaus Zwettl", 
+      "lat": 48.5992, 
+      "lng": 15.1964
+    },
+    {
+      "name": "Landeskrankenhaus Natters", 
+      "lat": 47.2639, 
+      "lng": 11.4797
+    },
+    {
+      "name": "Landeskrankenhaus Hochzirl", 
+      "lat": 47.3011, 
+      "lng": 11.3383
+    },
+    {
+      "name": "Landeskrankenhaus St. Pölten", 
+      "lat": 48.2042, 
+      "lng": 15.6256
+    },
+    {
+      "name": "Krankenhaus der Barmherzigen Schwestern Linz", 
+      "lat": 48.3036, 
+      "lng": 14.2908
+    },
+    {
+      "name": "Landeskrankenhaus Wels-Grieskirchen", 
+      "lat": 48.1717, 
+      "lng": 14.0292
+    },
+    {
+      "name": "Landeskrankenhaus Steyr", 
+      "lat": 48.0353, 
+      "lng": 14.4261
+    },
+    {
+      "name": "Landeskrankenhaus Krems", 
+      "lat": 48.4050, 
+      "lng": 15.6208
+    },
+    {
+      "name": "Oslo Universitetssykehus Rikshospitalet",
+      "lat": 59.9410,
+      "lng": 10.7150
+    },
+    {
+      "name": "Stavanger Universitetssjukehus",
+      "lat": 58.9690,
+      "lng": 5.7331
+    },
+    {
+      "name": "Bergen Haukeland Universitetssjukehus",
+      "lat": 60.3942,
+      "lng": 5.3170
+    },
+    {
+      "name": "Trondheim St. Olavs Hospital",
+      "lat": 63.4195,
+      "lng": 10.4044
+    }
+  ],
+  "police": [
+    {
+      "name": "Polizeiinspektion Wien Landstraße",
+      "lat": 48.1950,
+      "lng": 16.3795
+    },
+    {
+      "name": "Polizeiinspektion Wien Favoriten",
+      "lat": 48.1833,
+      "lng": 16.3800
+    },
+    {
+      "name": "Polizeiinspektion Wien Ottakring",
+      "lat": 48.2000,
+      "lng": 16.3300
+    },
+    {
+      "name": "Polizeiinspektion Wien Meidling",
+      "lat": 48.1700,
+      "lng": 16.3200
+    },
+    {
+      "name": "Polizeiinspektion Wien Simmering",
+      "lat": 48.2000,
+      "lng": 16.4000
+    },
+    {
+      "name": "Polizeiinspektion Wien Leopoldstadt",
+      "lat": 48.2200,
+      "lng": 16.3700
+    },
+    {
+      "name": "Polizeiinspektion Wien Alsergrund",
+      "lat": 48.2200,
+      "lng": 16.3500
+    },
+    {
+      "name": "Polizeiinspektion Wien Neubau",
+      "lat": 48.2000,
+      "lng": 16.3300
+    },
+    {
+      "name": "Polizeiinspektion Wien Döbling",
+      "lat": 48.2500,
+      "lng": 16.3500
+    },
+    {
+      "name": "Polizeiinspektion Wien Hietzing",
+      "lat": 48.2000,
+      "lng": 16.2500
+    },
+    {
+      "name": "Polizeiinspektion Wien Liesing",
+      "lat": 48.1500,
+      "lng": 16.3000
+    },
+    {
+      "name": "Polizeiinspektion Wien Floridsdorf",
+      "lat": 48.2500,
+      "lng": 16.4000
+    },
+    {
+      "name": "Polizeiinspektion Wien Brigittenau",
+      "lat": 48.2300,
+      "lng": 16.4000
+    },
+    {
+      "name": "Polizeiinspektion Wien Penzing",
+      "lat": 48.2000,
+      "lng": 16.3000
+    },
+    {
+      "name": "Polizeiinspektion Wien Währing",
+      "lat": 48.2200,
+      "lng": 16.3200
+    },
+    {
+      "name": "Polizeiinspektion Wien Rudolfsheim-Fünfhaus",
+      "lat": 48.2000,
+      "lng": 16.3300
+    },
+    {
+      "name": "Polizeiinspektion Wien Meidling",
+      "lat": 48.1700,
+      "lng": 16.3200
+    },
+    {
+      "name": "Polizeiinspektion Wien Simmering",
+      "lat": 48.2000,
+      "lng": 16.4000
+    },
+    {
+      "name": "Polizeiinspektion Wien Leopoldstadt",
+      "lat": 48.2200,
+      "lng": 16.3700
+    },
+    {
+      "name": "Oslo Politistasjon",
+      "lat": 59.9111,
+      "lng": 10.7528
+    },
+    {
+      "name": "Bergen Politistasjon",
+      "lat": 60.3928,
+      "lng": 5.3245
+    },
+    {
+      "name": "Trondheim Politistasjon",
+      "lat": 63.4305,
+      "lng": 10.3951
+    }
+  ],
+  "parks": [
+    {
+      "name": "Stadtpark Wien",
+      "lat": 48.2014,
+      "lng": 16.3715
+    },
+    {
+      "name": "Volksgarten Wien",
+      "lat": 48.2044,
+      "lng": 16.3686
+    },
+    {
+      "name": "Türkenschanzpark Wien",
+      "lat": 48.2200,
+      "lng": 16.3400
+    },
+    {
+      "name": "Schlosspark Schönbrunn",
+      "lat": 48.1844,
+      "lng": 16.3125
+    },
+    {
+      "name": "Botanischer Garten der Universität Wien",
+      "lat": 48.2061,
+      "lng": 16.3702
+    },
+    {
+      "name": "Prater Wien",
+      "lat": 48.2100,
+      "lng": 16.4000
+    },
+    {
+      "name": "Donaupark Wien",
+      "lat": 48.2300,
+      "lng": 16.4200
+    },
+    {
+      "name": "Augarten Wien",
+      "lat": 48.2100,
+      "lng": 16.3700
+    },
+    {
+      "name": "Stadtpark Graz",
+      "lat": 47.0700,
+      "lng": 15.4400
+    },
+    {
+      "name": "Volksgarten Graz",
+      "lat": 47.0700,
+      "lng": 15.4400
+    },
+    {
+      "name": "Schlosspark Graz",
+      "lat": 47.0700,
+      "lng": 15.4400
+    },
+    {
+      "name": "Botanischer Garten Graz",
+      "lat": 47.0700,
+      "lng": 15.4400
+    },
+    {
+      "name": "Prater Graz",
+      "lat": 47.0700,
+      "lng": 15.4400
+    },
+    {
+      "name": "Donaupark Graz",
+      "lat": 47.0700,
+      "lng": 15.4400
+    },
+    {
+      "name": "Augarten Graz",
+      "lat": 47.0700,
+      "lng": 15.4400
+    },
+    {
+      "name": "Stadtpark Linz",
+      "lat": 48.3000,
+      "lng": 14.3000
+    },
+    {
+      "name": "Volksgarten Linz",
+      "lat": 48.3000,
+      "lng": 14.3000
+    },
+    {
+      "name": "Schlosspark Linz",
+      "lat": 48.3000,
+      "lng": 14.3000
+    },
+    {
+      "name": "Botanischer Garten Linz",
+      "lat": 48.3000,
+      "lng": 14.3000
+    },
+    {
+      "name": "Frognerparken, Oslo",
+      "lat": 59.9270,
+      "lng": 10.7155
+    },
+    {
+      "name": "Byparken, Bergen",
+      "lat": 60.3950,
+      "lng": 5.3225
+    },
+    {
+      "name": "Marinen Park, Trondheim",
+      "lat": 63.4267,
+      "lng": 10.3932
+    }
+  ],
+  "gas": [
+    {
+      "name": "OMV Tankstelle Wien",
+      "lat": 48.2100,
+      "lng": 16.3700
+    },
+    {
+      "name": "Shell Tankstelle Wien",
+      "lat": 48.2200,
+      "lng": 16.3800
+    },
+    {
+      "name": "BP Tankstelle Wien",
+      "lat": 48.2300,
+      "lng": 16.3900
+    },
+    {
+      "name": "AVANTI Tankstelle Innsbruck",
+      "lat": 47.2700,
+      "lng": 11.4000
+    },
+    {
+      "name": "JET Tankstelle Salzburg",
+      "lat": 47.8100,
+      "lng": 13.0400
+    },
+    {
+      "name": "Turmöl Tankstelle Linz",
+      "lat": 48.3000,
+      "lng": 14.2900
+    },
+    {
+      "name": "MOL Tankstelle Graz",
+      "lat": 47.0700,
+      "lng": 15.4400
+    },
+    {
+      "name": "AVIA Tankstelle Klagenfurt",
+      "lat": 46.6200,
+      "lng": 14.3000
+    },
+    {
+      "name": "SOCAR Tankstelle Dornbirn",
+      "lat": 47.4100,
+      "lng": 9.7400
+    },
+    {
+      "name": "OMV Tankstelle Feldkirch",
+      "lat": 47.2400,
+      "lng": 9.5900
+    },
+    {
+      "name": "Shell Tankstelle Villach",
+      "lat": 46.6100,
+      "lng": 13.4400
+    },
+    {
+      "name": "BP Tankstelle Wels",
+      "lat": 48.1600,
+      "lng": 14.0300
+    },
+    {
+      "name": "JET Tankstelle St. Pölten",
+      "lat": 48.2000,
+      "lng": 15.6200
+    },
+    {
+      "name": "AVANTI Tankstelle Eisenstadt",
+      "lat": 47.8500,
+      "lng": 16.5200
+    },
+    {
+      "name": "Turmöl Tankstelle Krems",
+      "lat": 48.4000,
+      "lng": 15.6200
+    },
+    {
+      "name": "MOL Tankstelle Amstetten",
+      "lat": 48.1200,
+      "lng": 14.8800
+    },
+    {
+      "name": "SOCAR Tankstelle Steyr",
+      "lat": 48.0500,
+      "lng": 14.4200
+    },
+    {
+      "name": "OMV Tankstelle Bregenz",
+      "lat": 47.5000,
+      "lng": 9.7500
+    },
+    {
+      "name": "Shell Tankstelle Tulln",
+      "lat": 48.4000,
+      "lng": 15.6200
+    },
+    {
+      "name": "Shell Oslo",
+      "lat": 59.9125,
+      "lng": 10.7460
+    },
+    {
+      "name": "Circle K Bergen",
+      "lat": 60.3925,
+      "lng": 5.3250
+    },
+    {
+      "name": "Esso Trondheim",
+      "lat": 63.4290,
+      "lng": 10.3970
+    }
+  ]
+}

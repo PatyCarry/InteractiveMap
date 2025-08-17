@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Kurs\\blazor\\InteractiveMapStandalone\\InteractiveMapStandalone\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Kurs\\blazor\\InteractiveMapStandalone\\InteractiveMapStandalone\\obj\\Debug\\net8.0\\compressed\\7ddhls8274.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Kurs\\blazor\\InteractiveMapStandalone\\InteractiveMapStandalone\\obj\\Debug\\net8.0\\scopedcss\\bundle\\InteractiveMapStandalone.styles.css",
+      "PackagePath": "staticwebassets\\InteractiveMapStandalone.styles.css"
+    },
+    {
+      "Id": "C:\\Kurs\\blazor\\InteractiveMapStandalone\\InteractiveMapStandalone\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Kurs\\blazor\\InteractiveMapStandalone\\InteractiveMapStandalone\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Kurs\\blazor\\InteractiveMapStandalone\\InteractiveMapStandalone\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Kurs\\blazor\\InteractiveMapStandalone\\InteractiveMapStandalone\\wwwroot\\data\\locations.json",
+      "PackagePath": "staticwebassets\\data\\locations.json"
+    },
+    {
+      "Id": "C:\\Kurs\\blazor\\InteractiveMapStandalone\\InteractiveMapStandalone\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Kurs\\blazor\\InteractiveMapStandalone\\InteractiveMapStandalone\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Kurs\\blazor\\InteractiveMapStandalone\\InteractiveMapStandalone\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Kurs\\blazor\\InteractiveMapStandalone\\InteractiveMapStandalone\\wwwroot\\js\\map.js",
+      "PackagePath": "staticwebassets\\js\\map.js"
+    },
+    {
+      "Id": "C:\\Kurs\\blazor\\InteractiveMapStandalone\\InteractiveMapStandalone\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.InteractiveMapStandalone.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.InteractiveMapStandalone.props",
+      "PackagePath": "build\\InteractiveMapStandalone.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.InteractiveMapStandalone.props",
+      "PackagePath": "buildMultiTargeting\\InteractiveMapStandalone.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.InteractiveMapStandalone.props",
+      "PackagePath": "buildTransitive\\InteractiveMapStandalone.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
